@@ -13,8 +13,7 @@ models.py. Whether a helper method belongs in this module or models.py is
 often a complicated issue.  If you do not know, ask on Piazza and we will
 answer.
 
-# YOUR NAME(S) AND NETID(S) HERE
-# DATE COMPLETED HERE
+sjg276
 """
 from game2d import *
 from consts import *
