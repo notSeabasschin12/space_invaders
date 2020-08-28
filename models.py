@@ -22,8 +22,7 @@ You are free to add even more models to this module.  You may wish to do this
 when you add new features to your game, such as power-ups.  If you are unsure
 about whether to make a new class or not, please ask on Piazza.
 
-# YOUR NAME(S) AND NETID(S) HERE
-# DATE COMPLETED HERE
+sjg276
 """
 from consts import *
 from game2d import *
